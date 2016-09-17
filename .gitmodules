@@ -1,0 +1,12 @@
+[submodule "WebApiKoans"]
+	path = WebApiKoans
+	url = https://github.com/WebApiContrib/WebApiKoans.git
+[submodule "FluencyKoans"]
+	path = FluencyKoans
+	url = https://github.com/ChrisEdwards/FluencyKoans.git
+[submodule "DotNetKoans"]
+	path = DotNetKoans
+	url = https://github.com/modzirra/DotNetKoans.git
+[submodule "DotNetKoansOther"]
+	path = DotNetKoansOther
+	url = https://github.com/CoryFoy/DotNetKoans.git
